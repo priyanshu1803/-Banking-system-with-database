@@ -1,5 +1,5 @@
 import mysql.connector as a
-con=a.connect(host="localhost",user="your user name",password="*****",database="priyanshu")
+con=a.connect(host="localhost",user="your user name",password="*****",database="Bank")
 
 
 def openAcc():
